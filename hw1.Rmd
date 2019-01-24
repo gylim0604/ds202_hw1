@@ -1,0 +1,31 @@
+g---
+title: 'Homework #1'
+author: "Guang Yi Lim;gylim97"
+output: html_document
+
+---
+
+```{r setup, include=FALSE, }
+knitr::opts_chunk$set(echo = TRUE)
+```
+An example I would consider data science is how the National Basketball Association(NBA) has used **data analytics** in the sport. By analyzing player stats, NBA coach has a better understanding of how players perform and some of the more modern coaches even rely on these data to schedule their player rotation. The change in the recent NBA where 3 point shots have became more and more prominent is also due to the use of data analytics. For example, [this chart](https://i.imgur.com/t4Rivrk.png) shows that most NBA shoots belows 50% from the midrange, which used to be the dominant way the NBA was played in the early 2000s.
+```{r}
+version
+```
+5. What is the version of your Git? To find out, go to the Terminal tab in RStudio (right to the Console tab), and type in the following command. If it works, this shows the setup of your terminal and Git is correct. Then explore the bash command-line and Git.
+
+    ```
+    git --version
+    ```
+6. Configure Git by modifying and entering the following commands into the terminal
+
+    ```
+    git config user.name "your first and last name"
+    git config user.email "yourEmail"
+    ```
+
+7. Register a [GitHub](https://www.github.com) account. What is your username?
+
+
+
+Now Knit the finished Homework 1 one last time, and you are done! The actual submission (to a GitHub repository) will take place in Lab 1.
