@@ -1,0 +1,15 @@
+---
+title: "partner"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## R Markdown
+
+My name is Colin Brown
+My GitHub username is chbrown97
+My partner's most recent commit was to add the hw1 file. It's ID is f0a98f6.
+One difficulty with Git is working with repositories.
